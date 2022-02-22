@@ -1,0 +1,7 @@
+{
+  "name": "AppPAM1Michel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
